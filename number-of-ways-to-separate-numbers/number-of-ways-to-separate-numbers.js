@@ -1,3 +1,4 @@
+// https://leetcode.com/contest/biweekly-contest-59/problems/number-of-ways-to-separate-numbers/
 
 const MOD = 1000000007;
 
