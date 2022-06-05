@@ -1,2 +1,2 @@
 # leat-code-problems
-Mainly focus on solving hard problems in LeatCode
+Try to expand algorithm knowledges via solving LeatCode problems.
